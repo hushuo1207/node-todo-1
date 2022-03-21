@@ -2,3 +2,5 @@
 /node-todo-2/
 /dist/
 yarn.lock
+/.idea/
+/.vscode/
